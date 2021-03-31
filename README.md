@@ -25,9 +25,9 @@ This is pretty good, but let's get the details.
 - [x] Sleep
 - [x] Power Management
 - [x] USB Ports
-- [x] Handoff (Not tested)#2
+- [x] Handoff (Not tested)
 - [x] iMessage
-- [x] Airdrop (Not tested)#2
+- [x] Airdrop (Not tested)
 - [ ] Unlock with Apple Watch (Only switching WiFi card, not Intel Wifi)
 
 ## Use
