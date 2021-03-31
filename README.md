@@ -4,8 +4,8 @@ This laptop is a Hackintosher's dream. Inexpensive, relatively new, and contains
   * Dell Inspiron 15 Full Specifications:
     - Intel i7-8565U (Whiskey Lake);
     - 16GB RAM;
-    - Display FullHD IPS;
-    - SSD M.2 Nvme Crucial 240GB;
+    - SSD SATA Kingstone 240GB;
+    - Display FullHD;
     - 2 USB 3.0, 1 USB 2.0;
     - Card Reader;
     - Phone jack;
