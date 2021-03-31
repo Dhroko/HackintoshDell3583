@@ -1,4 +1,4 @@
-# Inspiron-3583-Hackintosh
+# Hackintosh Dell Inspiron 3583
 This laptop is a Hackintosher's dream. Inexpensive, relatively new, and contains **two drive bays!** Yes, my friends, dualbooting Windows and MacOS has never been easier in a laptop, so let's get started.
 ## Dell Inspiron 15 3583 specs
   * Dell Inspiron 15 Full Specifications:
