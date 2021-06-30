@@ -1,5 +1,5 @@
-# Hackintosh Dell Inspiron 3583
-This laptop is a Hackintosher's dream. Inexpensive, relatively new, and contains **two drive bays!** Yes, my friends, dualbooting Windows and MacOS has never been easier in a laptop, so let's get started.
+# Hackintosh Dell Inspiron 3583 - Big Sur 11.4
+This laptop is a Hackintosher's dream. Inexpensive, relatively new, and contains **two drive bays!** Dualbooting Windows and MacOS has never been easier in a laptop, so let's get started.
 ## Dell Inspiron 15 3583 specs
   * Dell Inspiron 15 Full Specifications:
     - Intel i7-8565U (Whiskey Lake);
@@ -17,7 +17,8 @@ This laptop is a Hackintosher's dream. Inexpensive, relatively new, and contains
 This is pretty good, but let's get the details.
 - [x] Touchscreen
 - [x] Touchpad Gestures
-- [x] Intel WiFi **Some users have reported that using Airportitlwm kexts will enable wifi, but I replaced my card with a DW1560. See #2**
+- [x] Intel WiFi
+- [x] Bluetooth
 - [x] HDMI Audio
 - [x] HDMI Video
 - [x] Audio jack (No mic in)
@@ -35,14 +36,15 @@ Download OpenCore onto one flash drive, and replace the files in this repo. You 
 
 ## Workarounds
 We need two workarounds currently to get things in shape. 
-1. Download Karibiner Elements and set the function keys to the functions that they belong in. Also, change the the tilde key and the pipe key, as they are swapped.
+1. Download Karibiner Elements here(https://karabiner-elements.pqrs.org/), and set the function keys to the functions that they belong in and check the "Use all F1, F2, etc. keys as standard function keys".
+2. Change the "f13" (PrintScreen button) to "fn" key, thats make the fn keys works when pressed the new fn key.
 
 ## Unlock with Apple Watch
 You must have a wireless chip that works out of the box for Apple Watch Unlock. 
 Even on a real Mac this is a pain! It may just work to press the box, but what did it for me was flushing the routes. 
 
 ## Intel WiFi
-You might be able to use the built in WiFi card -> https://github.com/OpenIntelWireless/itlwm
+Just use the EFI OpenCore provide by me, for more updates visit here -> https://github.com/OpenIntelWireless/itlwm
 
 ## I do not condone piracy. I am not responsible for what this is used for. 
 ## Thanks to everyone who developed the actual software, I just compiled it for use with this machine.
