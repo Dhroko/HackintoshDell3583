@@ -1,4 +1,4 @@
-# Hackintosh Dell Inspiron 3583 - Big Sur 11.4
+# Hackintosh Dell Inspiron 3583 - Big Sur 11.6
 This laptop is a Hackintosher's dream. Inexpensive, relatively new, and contains **two drive bays!** Dualbooting Windows and MacOS has never been easier in a laptop, so let's get started.
 ## Dell Inspiron 15 3583 specs
   * Dell Inspiron 15 Full Specifications:
@@ -22,7 +22,7 @@ This is pretty good, but let's get the details.
 - [x] HDMI Audio
 - [x] HDMI Video
 - [x] Audio jack (No mic in)
-- [ ] Function Keys (Workaround with Key Elements)
+- [x] Function Keys (Workaround with Key Elements)
 - [x] Sleep
 - [x] Power Management
 - [x] USB Ports
